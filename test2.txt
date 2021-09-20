@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 18A9-1BEA
+
+ Directory of C:\Users\Manisha\Desktop\MyFoder
+
+09/21/2021  12:15 AM    <DIR>          .
+09/21/2021  12:15 AM    <DIR>          ..
+09/20/2021  11:22 PM                 0 doc1.docx
+09/21/2021  12:13 AM               458 index.html
+09/20/2021  11:04 PM                 8 test1.txt
+09/21/2021  12:15 AM                 0 test2.txt
+               4 File(s)            466 bytes
+               2 Dir(s)  611,103,244,288 bytes free
